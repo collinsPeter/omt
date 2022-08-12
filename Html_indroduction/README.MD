@@ -1,7 +1,7 @@
 # Introduction to Html
-<hr>
-### HTML stands for HYPERTEXT MARKUP LANGUAGE
-HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables.
-<hr>
-* Assignmennt 
-Cloning a Website of Lorem ipsum
+---------------------------------------------------
+
+### What is HTML in simple definition?
+
+HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behaviour
+-----------------------------------------------------------------------
